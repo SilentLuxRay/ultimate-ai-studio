@@ -1,0 +1,4 @@
+gradio
+transformers==4.46.0
+pillow
+requests

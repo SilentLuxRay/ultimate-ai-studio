@@ -1,0 +1,22 @@
+# Ambienti Virtuali
+.venv/
+venv/
+env/
+
+# Cache di Python
+__pycache__/
+*.pyc
+
+# Log e Database locali
+*.log
+prompt_history.txt
+
+# Modelli scaricati (se salvati in locale)
+*.bin
+*.pt
+*.safetensors
+*.ckpt
+
+# Impostazioni IDE
+.vscode/
+.idea/
